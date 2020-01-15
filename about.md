@@ -24,51 +24,13 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
----
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+## What Is Ludic Liberation Lab?
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+Can play be political? Can games change the world? Is the entire social system just a rigged game whose rules we’ve made up long ago but forgot to change for the evolving future? It is through play that we learn the world as children, and by playing with it as adults that we can learn to liberate ourselves from its pretend constraints. Play expands our notions of what’s possible and brings us closer to the source of creation, helping us - through playful obfuscation - to better see things as they really are. 
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+Play is not only human (birds and electrons play too!) but humans are especially creative at it, having designed countless genres of challenge-based, symbolic activity to be engaged in for their own sake. From the Situationists International’s playful psychogeography of *dérive* to Augusto Boal’s Theater of the Oppressed to *Monopoly*’s anti-capitalist origin in *The Landlord’s Game*, a growing movement of social change and activist game designers are harnessing the ancient ludic tradition to teach political strategy, experiment with forms of collective liberation, and build a new revolutionary imaginary. In this charged time of class struggle and climate catastrophe, **we urgently need each other to play**! 
 
-## Features
+Incite Seminars invites you to join the **Ludic Liberation Lab** – a project to explore transformative and political game design, game-based pedagogy, and playful facilitation techniques. We gather together to play and learn from a variety of board, tabletop and card games, participatory simulations, war games, and pervasive and immersive game experiences as tools for political education and social change. Meetings include collective play, exploration of game mechanics and facilitation strategies, and collaborative design activities. 
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
-
-## Skins
-
-TeXt has 6 built-in skins, you can also set up your own skin.
-
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
-
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
-
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+**Ludic Liberation Lab** meets every first Wednesday of the month at Incite Seminars HQ, at The Bourse (111 S. Independence Mall, Philadelphia). $15 suggested donation pays for space, snacks, and materials. 
