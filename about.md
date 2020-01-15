@@ -27,7 +27,7 @@ key: page-about
 
 --- 
 
-## What Is Ludic Liberation Lab?
+# What Is Ludic Liberation Lab?
 
 Can play be political? Can games change the world? Is the entire social system just a rigged game whose rules we’ve made up long ago but forgot to change for the evolving future? It is through play that we learn the world as children, and by playing with it as adults that we can learn to liberate ourselves from its pretend constraints. Play expands our notions of what’s possible and brings us closer to the source of creation, helping us - through playful obfuscation - to better see things as they really are. 
 
