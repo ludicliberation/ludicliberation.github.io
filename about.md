@@ -27,12 +27,6 @@ key: page-about
 
 --- 
 
-### What is Ludic Liberation Lab?
-
-Can play be political? Can games change the world? Is the entire social system just a rigged game whose rules we’ve made up long ago but forgot to change for the evolving future? It is through play that we learn the world as children, and by playing with it as adults that we can learn to liberate ourselves from its pretend constraints. Play expands our notions of what’s possible and brings us closer to the source of creation, helping us - through playful obfuscation - to better see things as they really are. 
-
-Play is not only human (birds and electrons play too!) but humans are especially creative at it, having designed countless genres of challenge-based, symbolic activity to be engaged in for their own sake. From the Situationists International’s playful psychogeography of *dérive* to Augusto Boal’s Theater of the Oppressed to *Monopoly*’s anti-capitalist origin in *The Landlord’s Game*, a growing movement of social change and activist game designers are harnessing the ancient ludic tradition to teach political strategy, experiment with forms of collective liberation, and build a new revolutionary imaginary. In this charged time of class struggle and climate catastrophe, **we urgently need each other to play**! 
-
-Incite Seminars invites you to join the **Ludic Liberation Lab** – a project to explore transformative and political game design, game-based pedagogy, and playful facilitation techniques. We gather together to play and learn from a variety of board, tabletop and card games, participatory simulations, war games, and pervasive and immersive game experiences as tools for political education and social change. Meetings include collective play, exploration of game mechanics and facilitation strategies, and collaborative design activities. 
+**Ludic Liberation Lab** is a project to explore transformative and political game design, game-based pedagogy, and playful facilitation techniques. We gather together to play and learn from a variety of board, tabletop and card games, participatory simulations, war games, and pervasive and immersive game experiences as tools for political education and social change. Meetings include collective play, exploration of game mechanics and facilitation strategies, and collaborative design activities. 
 
 **Ludic Liberation Lab** meets every first Wednesday of the month at Incite Seminars HQ, at The Bourse (111 S. Independence Mall, Philadelphia). $15 suggested donation pays for space, snacks, and materials. 
